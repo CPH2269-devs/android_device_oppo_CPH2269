@@ -1,0 +1,12 @@
+*.img
+*.gz
+*.bin
+*.dtbo
+*.dtb
+
+# Prebuilt kernel lives in a separate sibling repo (device/oppo/CPH2269-kernel)
+# Local / ephemeral files
+*.swp
+*.orig
+*.rej
+.DS_Store

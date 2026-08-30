@@ -1,0 +1,6 @@
+runtime_resource_overlay {
+    name: "WifiResOverlayCPH2269",
+    theme: "WifiResOverlay",
+    certificate: "platform",
+    product_specific: true
+}

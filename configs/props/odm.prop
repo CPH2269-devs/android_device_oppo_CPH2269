@@ -1,0 +1,24 @@
+# Device specific ODM properties - OPPO A16 (CPH2269)
+persist.vendor.engineer.hide.log=6996
+persist.vendor.engineer.hide.warn=6776
+ro.camera.videoeis.enable=1
+ro.camera.temperature.limit=420
+ro.camera.portrait.blur.level.enable=1
+ro.oplus.system.camera.name=com.oppo.camera
+ro.separate.soft=20378
+ro.com.google.clientidbase=android-oppo
+ro.oppo.market.name=CPH2269
+persist.version.confidential=false
+ro.version.confidential=false
+ro.sys.reserve.integrate=true
+persist.sys.oppo.fusionlight=true
+persist.sys.oppo.proximity=true
+ro.display.rc.size=81,81,66,66
+ro.oppo.screen.heteromorphism=296,0:424,43
+ro.display.underscreen.lightsensor.support=1
+ro.lcd.display.screen.underlightsensor.region=652,0,689,37
+ro.oplus.lcd.display.screen.underlightsensor.region=652,0,689,37
+ro.sf.lcd_density=320
+odm.dirac.path=/odm/etc/dirac
+ro.oplus.image.odm.version=version_stub
+ro.oplus.image.odm.type=20378
